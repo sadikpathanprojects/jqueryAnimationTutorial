@@ -1,0 +1,29 @@
+#htmlbutton{
+    height: 300px;
+    width: 600px;
+    background-color: rgb(41, 212, 118);
+}
+#jsbutton{
+    height: 300px;
+    width: 600px; 
+    background-color:rgb(41, 212, 118);
+}
+#hidetutorial{
+    background-color:white ;
+}
+#explaination{
+    background-color: rgb(79, 219, 219);
+}
+
+#h1hide{
+    color:black;
+}
+
+@media (max-width:580px){
+    nav{
+        width:100%;
+    }
+    #explaination{
+        width:100%;
+    }
+}
